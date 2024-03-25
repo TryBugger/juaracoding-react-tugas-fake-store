@@ -1,4 +1,4 @@
-# Belajar Pemakain Form
+# Tugas Membuat Web Menggunakan Fake Store API
 
 # React + Vite
 
